@@ -1,0 +1,23 @@
+body{
+    background-color: #ccc;
+}
+.container{
+    display: flex;
+}
+button{
+    border: none;
+    outline: none;
+    margin: 10px;
+    width: 100px;
+    height: 30px;
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.aqua{
+    background-color: aqua;
+}
+.red{
+    background-color: red;
+}
